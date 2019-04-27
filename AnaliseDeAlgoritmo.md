@@ -90,7 +90,7 @@ R: Notação O –pequeno diz que uma função é menor que a outra função g(n
 
 #### 22 Problema
 ##### Qual é a definição formal da notação o-pequeno?
-Sejam f e g funções f, g: N → R+. Digamos que f(n) = o(g(n)) se
+R:Sejam f e g funções f, g: N → R+. Digamos que f(n) = o(g(n)) se
 
 ![image](https://user-images.githubusercontent.com/36802539/56843062-a11b6b80-6872-11e9-8bc8-01e68b64bd7d.png)
                             
