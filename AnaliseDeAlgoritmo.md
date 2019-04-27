@@ -83,6 +83,7 @@ Quando f(n) = O(g(n)) dizemos que g(n) é o limite superior para f(n) ou, mais p
 
 #### 20 Problema
 ##### Crie um gráfico explicando a notação O-grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0?
+![Capturar](https://user-images.githubusercontent.com/36802539/56843482-d24a6a80-6877-11e9-826a-fce969a3dfb5.JPG)
 
 #### 21 Problema
 ##### O que é a notação o-pequeno ou Little-Oh?
@@ -98,7 +99,7 @@ Em outras palavras, f(n) = O(g(n)) significa que, para qualquer número real c >
 
 #### 23 Problema
 ##### Crie um gráfico explicando a notação o-pequeno.
-R:
+![Capturar2](https://user-images.githubusercontent.com/36802539/56843483-d37b9780-6877-11e9-925a-3b8d80856582.JPG)
 
 #### 24 Problema
 ##### Passe a notação O-grande e o-pequeno as funções abaixo:
