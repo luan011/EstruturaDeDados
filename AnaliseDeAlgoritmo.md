@@ -40,3 +40,86 @@ R: Para cada operação primitiva se atribui o valor 1.
 
 #### 10 Problema
 ##### Desenvolva o pseudocódigo do algoritmo SOMA, que realiza a soma de dois números inteiros recebidos por parâmetro e tem como saída a resultado da operação. Identifique a sua função de complexidade de tempo.
+![Capturar](https://user-images.githubusercontent.com/36802539/56842931-079f8a00-6871-11e9-915f-64f22654a276.JPG)
+
+#### 11 Problema
+##### Desenvolva o pseudocódigo do algoritmo SOMA V ET OR, que realiza a soma de todos os elementos de um vetor. O algoritmo recebe o vetor V e tem como saída o resultado. Identifique a sua função de complexidade de tempo.
+![Capturar2](https://user-images.githubusercontent.com/36802539/56842950-47ff0800-6871-11e9-9e04-9b0dbadedb31.JPG)
+
+#### 12 Problema
+##### Desenvolva o pseudocódigo do algoritmo CONTAGEM ÍMPARES, que realiza a contagem de números impares de um vetor. O algoritmo recebe o vetor V e tem como saída o resultado. Identifique a sua função de complexidade de tempo.
+![Capturar3](https://user-images.githubusercontent.com/36802539/56842958-6a912100-6871-11e9-9bce-c85b9cac8ca2.JPG)
+
+#### 13 Problema
+##### Desenvolva o pseudocódigo do algoritmo SOMA MATRIZ, que realiza a soma de todos os elementos de uma matriz. O algoritmo recebe a matriz M e tem como saída o resultado. Identifique a sua função de complexidade de tempo.
+![Capturar4](https://user-images.githubusercontent.com/36802539/56842960-84326880-6871-11e9-9d3c-cbe93d82487a.JPG)
+
+#### 14 Problema
+##### Desenvolva o pseudocódigo do algoritmo BUSCA MATRIZ, que identifica posição x e y de um elemento em uma matriz. O algoritmo recebe a matriz M e o valor V e tem como saída a posição x e y. Identifique a sua função de complexidade de tempo.
+
+#### 15 Problema
+##### O que é análise assintótica? Qual é o seu objetivo?
+R: O tempo exato de um algoritmo é frequentemente uma expressão complexa. Tanto para identificar como para calcular. Portanto, apenas se utiliza uma estimativa, chamada de análise assintótica, com objetivo de compreender o tempo de execução para entradas grandes. Ou seja, é um método de descrever o comportamento de limites.
+
+#### 16 Problema
+##### Qual é o processo da análise assintótica? Crie um exemplo.
+![Capturar6](https://user-images.githubusercontent.com/36802539/56842996-fdca5680-6871-11e9-9006-1c845f2f695c.JPG)
+
+#### 17 Problema
+##### O que é a notação assintótica?
+R:
+
+#### 18 Problema
+##### O que é a notação O-Grande ou Big-Oh?
+R: Notação O –grande diz que uma função é menor que ou igual a outra função g(n). x Ou seja, f é limitada superiormente por g (até no máximo um fator constante) assintoticamente.
+
+#### 19 Problema
+##### Qual é a definição formal da notação O-Grande?
+R: Sejam f e g funções f, g: N → R+. Digamos que f(n) = O(g(n)) se existem inteiros positivos c e n0 tais que para todo inteiro n ≥ n0 
+   
+   #### f(n) ≤ cg(n).
+
+Quando f(n) = O(g(n)) dizemos que g(n) é o limite superior para f(n) ou, mais precisamente, que g(n) é um limitante assintótico para f(n), para enfatizar que estamos suprimento fatores constantes.
+
+#### 20 Problema
+##### Crie um gráfico explicando a notação O-grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0?
+
+#### 21 Problema
+##### O que é a notação o-pequeno ou Little-Oh?
+R: Notação O –pequeno diz que uma função é menor que a outra função g(n). Ou seja, f é dominada por g assintoticamente.
+
+#### 22 Problema
+##### Qual é a definição formal da notação o-pequeno?
+Sejam f e g funções f, g: N → R+. Digamos que f(n) = o(g(n)) se
+
+![image](https://user-images.githubusercontent.com/36802539/56843062-a11b6b80-6872-11e9-8bc8-01e68b64bd7d.png)
+                            
+Em outras palavras, f(n) = O(g(n)) significa que, para qualquer número real c > 0, existe um número n0, onde f(n) < cg(n) para todo n ≥ n0.
+
+#### 23 Problema
+##### Crie um gráfico explicando a notação o-pequeno.
+R:
+
+#### 24 Problema
+##### Passe a notação O-grande e o-pequeno as funções abaixo:
+A F(n) = n + 1
+B F(n) = 8
+C F(n) = 2n
+2 − 1
+D F(n) = nlogn
+E F(n) = 3n! + 2n
+F F(n) = 3n
+3 + 2n
+2 + 4n + 6
+G F(n) = 5n + 11
+H F(n) = 3logn
+
+#### 25 Problema
+##### Identifique o O-Grande dos algoritmos desenvolvidos nos Problemas 10 até 14.
+R:
+
+
+
+
+
+
