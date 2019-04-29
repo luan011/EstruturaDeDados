@@ -56,6 +56,7 @@ R: Para cada operação primitiva se atribui o valor 1.
 
 #### 14 Problema
 ##### Desenvolva o pseudocódigo do algoritmo BUSCA MATRIZ, que identifica posição x e y de um elemento em uma matriz. O algoritmo recebe a matriz M e o valor V e tem como saída a posição x e y. Identifique a sua função de complexidade de tempo.
+![Capturar](https://user-images.githubusercontent.com/36802539/56933403-0adb8580-6abe-11e9-9971-bc0105a9d94d.JPG)
 
 #### 15 Problema
 ##### O que é análise assintótica? Qual é o seu objetivo?
@@ -67,7 +68,7 @@ R: O tempo exato de um algoritmo é frequentemente uma expressão complexa. Tant
 
 #### 17 Problema
 ##### O que é a notação assintótica?
-R:
+R: É uma notação para descrever uma fórmula matemática que se importa apenas com o maior componente da fórmula e ignora os fatores menores ou constantes.
 
 #### 18 Problema
 ##### O que é a notação O-Grande ou Big-Oh?
