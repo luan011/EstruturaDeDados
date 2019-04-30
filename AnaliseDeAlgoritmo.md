@@ -104,22 +104,53 @@ Em outras palavras, f(n) = O(g(n)) significa que, para qualquer número real c >
 
 #### 24 Problema
 ##### Passe a notação O-grande e o-pequeno as funções abaixo:
-A F(n) = n + 1
+A) F(n) = n + 1
 
-B F(n) = 8
+O(n)
 
-C F(n) = 2n2 − 1
+o(n²)
+ 
+B) F(n) = 8
 
-D F(n) = nlogn
+O(1)
 
-E F(n) = 3n! + 2n
+o(n)
+ 
+C) F(n) = 2n² − 1
 
-F F(n) = 3n3 + 2n2 + 4n + 6
+O(n²)
 
-G F(n) = 5n + 11
+o(2^n)
+ 
+D) F(n) = nlogn
 
-H F(n) = 3logn
+O(logn)
 
+o(n²)
+ 
+E) F(n) = 3n! + 2n
+
+O(n!)
+
+o(n!²)
+ 
+F) F(n) = 3n³ + 2n² + 4n + 6
+
+O(n³)
+
+o(n!)
+ 
+G) F(n) = 5^n + 11
+
+O(5^n)
+
+o(n * n!)
+ 
+H) F(n) = 3logn
+
+O(logn)
+
+o(n²)
 
 #### 25 Problema
 ##### Identifique o O-Grande dos algoritmos desenvolvidos nos Problemas 10 até 14.
